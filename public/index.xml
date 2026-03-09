@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willkommen on TOKO Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Willkommen on TOKO Blog</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 03 Mar 2026 09:33:17 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ananke はじめてのサイト</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 03 Mar 2026 09:33:17 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;こんにちは。&#xA;今日はAnankeで作った初めてのサイトの更新です。&lt;/p&gt;&#xA;&lt;p&gt;＃見出しはこちらです。&lt;/p&gt;&#xA;&lt;p&gt;ーリストはこちらです。&#xA;ーデザインとしてきちんと反映されました。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
