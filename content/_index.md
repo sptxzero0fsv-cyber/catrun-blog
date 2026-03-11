@@ -2,10 +2,10 @@
 date = '2026-03-09T06:32:55+01:00'
 draft = false
 title = 'Willkommen'
-image = "/images/schoen.JPG"
+description = "My running blog"
+featured_image = "/images/schoen.JPG"
 +++
 
 昨日部屋の整理整頓と掃除をやりました。
-ドイツ生活のなかで、いわゆるお金をしっかり持っている人は、掃除をこまめにしているという共通点がありました。
 自分が過ごす空間をクリアなものにする。毎日新鮮なエネルギーをしっかり循環させる。
 そこからさらに自分自身に磨きがかかるのだと感じました。
