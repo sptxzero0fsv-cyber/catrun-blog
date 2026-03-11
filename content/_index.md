@@ -3,7 +3,7 @@ date = '2026-03-09T06:32:55+01:00'
 draft = false
 title = 'Willkommen'
 description = "My running blog"
-feature_image = "/images/schoen.JPG"
+featured_image = "/images/schoen.JPG"
 +++
 
 昨日部屋の整理整頓と掃除をやりました。

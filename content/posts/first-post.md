@@ -1,5 +1,6 @@
 +++
 date = '2026-03-03T09:33:17+01:00'
+featured_image = "/image/schone.JPG"
 draft = false
 title = 'Ananke はじめてのサイト'
 +++
